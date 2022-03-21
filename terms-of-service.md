@@ -1,7 +1,7 @@
 Unfair Advantage
 It is considered UNFAIR ADVANTAGE whenever a user creates, uses, offers, promotes, advertises, makes available and/or distributes any of the following:
 
-Bots: Any code and/or software, not expressly authorized, that allows the automated control of activities, or any other feature, e.g. the automated posting of messages to autopick Lootboxes;
+Bots: Any code and/or software, not expressly authorized, that allows the automated control of activities, or any other feature, e.g. the automated posting of messages to autopick Cards;
 Cheats: Methods not expressly authorized, influencing and/or facilitating progress, including exploits of any in-game bugs, and thereby granting you and/or any other user an advantage over other players not using such methods;
 Hacks: Accessing or modifying the website in any manner not expressly authorized; and/or
 Any code and/or software, that can be used to automate or simulate activities on a person's behalf thereof which changes and/or facilitates progress or other functionality;
